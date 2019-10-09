@@ -20,6 +20,7 @@
     "bencode": "^1.0.0",
     "body-parser": "1.13.3",
     "bootstrap": "4.0.0-alpha.6",
+    "bower": "1.8.8",
     "brush-javascript": "4.0.0",
     "brush-python": "4.0.0",
     "buffer24": "0.0.2",
